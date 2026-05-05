@@ -1,0 +1,24 @@
+import java.util.*;
+class program805 {
+    
+    public static void main(String A[])
+    {
+        Scanner sobj = new Scanner(System.in);
+        
+        System.out.println("Enter the number of element in series :");
+        int size = sobj.nextInt();
+        long dp[]=new long[size+1];
+        dp[0] = 0;
+        dp[1] = 1;
+        System.out.println(dp[0]);
+        System.out.println(dp[1]);
+        int i = 0;
+        for(i=2;i<=size;i++)
+        {
+            dp[i]=dp[i-1]+dp[i-2];
+            System.out.println(dp[i]+" ");
+        }
+        System.out.println("");
+        sobj.close();
+    }    
+}
