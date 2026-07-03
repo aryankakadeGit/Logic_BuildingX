@@ -1,1 +1,3 @@
-This repository contains Logic building codes done by using C ,C++, Java, Javascript, Python.
+A comprehensive repository featuring **1,000+ programs and implementations** covering Programming Fundamentals, Data Structures, Algorithms, Dynamic Programming, and advanced problem-solving concepts. Solutions are written across **C, C++, Java, Python, and JavaScript**, showcasing language versatility and deep understanding of core Computer Science principles.
+
+Topics include Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Hashing, Recursion, Backtracking, Greedy Algorithms, Dynamic Programming, Searching, Sorting, and advanced DSA patterns. This repository serves as a structured learning journey from basic programming concepts to interview-level and competitive programming problems, emphasizing clean code, optimized solutions, and cross-language implementations.
